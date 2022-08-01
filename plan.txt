@@ -1,0 +1,58 @@
+1- navbar
+-content
+-logo
+-dropdown
+-table
+-scale
+-list
+-login
+-icon from front awesome +hover
+------------------------------
+2-offer
+-img + PADDING
+------------------------------
+3-category
+-title
+-line
+-----------
+-4item
+-img
+-content
+-icon right
+-----------------------------
+4-discount
+-slider paragraph(left)
+-icon comma
+-span
+-p
+-----------------
+-background-image 2
+-h3 2
+-scale
+----------------------------
+5-service-icon
+-h3
+-span
+-background-position
+-----------------------------
+6-product
+-title
+-line
+-----------
+-list
+-item
+-img
+--------
+-behind overlay
+-img
+-social media icon
+-opacity
+------
+-info
+-stars
+-span
+-h3
+--------
+more
+about
+1-paragraph+img+paragraph
